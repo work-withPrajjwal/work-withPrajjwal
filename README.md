@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Prajjwal
 
-<!--
-**work-withPrajjwal/work-withPrajjwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Stack Developer (Student)**
+🌱 Currently learning and building with **MongoDB, Express, React, Node.js**
+🚀 Passionate about creating real-world web apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=work-withPrajjwal&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=work-withPrajjwal&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* ⚛️ React (Hooks, State, Components)
+* 🌐 REST APIs with Express
+* 🗄️ MongoDB & Mongoose
+* 🎨 Frontend UI + CSS
+
+---
+
+## 💼 Projects
+
+* 🔹 Full-stack MERN apps (coming soon...)
+* 🔹 Practice projects and experiments
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/work-withPrajjwal
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building things from scratch more than debugging 😄
